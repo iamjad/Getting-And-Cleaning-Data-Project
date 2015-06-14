@@ -1,4 +1,5 @@
-# Introduction
+Introduction
+------------
 This repository provides R code that performs cleaning and tidy of Human Activity Recognition Using Smartphones Dataset. It loads and merges training and test datasets and extracts average values of mean and standard deviation measurements. It creates final dataset in the file human-activity-recognization-analyzed.txt. 
 
 The raw data is available here.
