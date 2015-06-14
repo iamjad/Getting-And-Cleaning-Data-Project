@@ -15,6 +15,8 @@ These signals were used to estimate variables of the feature vector for each pat
 
 Following variables are extracted from original dataset but aggregated by activity and subject and an average values of each measurement that is either mean or standard deviation. 
 
+Total Variables: 81
+
 - Activity - factor. Levels are WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING and LAYING
 - Subject - Subject Identifier 1 to 30
 - tBodyAccmeanX
