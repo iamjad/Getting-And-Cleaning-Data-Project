@@ -12,6 +12,13 @@ Install following R libraries before executing run_analysis.R script.
 - dplyr
 - stringr
 
+# How to run run_analysis.R script
+
+- Download and save the run_analysis.R file in the "UCI HAR Dataset" folder.
+- Make sure required libraries are installed. 
+- Set the working directory to "UCI HAR Dataset" directory. 
+- Source run_analysis.R file. It'll create a new file "human-activity-recognization-analyzed.txt" in the same directory.
+
 # Methodology
 
 Following methodology is applied on raw data to clean and tidy the data. 
@@ -21,3 +28,5 @@ Following methodology is applied on raw data to clean and tidy the data.
 - Uses descriptive activity names to name the activities in the data set.
 - Appropriately labels the data set with descriptive variable names.
 - From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+
+
